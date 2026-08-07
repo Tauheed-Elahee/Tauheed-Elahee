@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on (@Consultologist)[https://github.com/Consultologist]
+- 🔭 I’m currently working on @Consultologist
 - 🌱 I’m currently learning AI/ML and C#
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
